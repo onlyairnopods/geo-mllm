@@ -1,0 +1,23 @@
+{
+"cities": [
+            "Okayama",
+            "Hiroshima",
+            "Takamatsu",
+            "Matsuyama",
+            "Fukuyama"
+],
+"latitudes": [
+            34.6613,
+            34.3964,
+            34.3406,
+            33.8417,
+            34.4864
+        ],
+"longitudes": [
+            133.9342,
+            132.4553,
+            134.0436,
+            132.7657,
+            133.3442
+        ]
+}

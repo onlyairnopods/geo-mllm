@@ -1,0 +1,10 @@
+This image was taken in cityxxx. Please guess the specific shooting location. Please reasoning step by step, by the evidence like trees, cars, signs and other elements in the environment which may help. Please give me five certain locations list, and Please give me the specific coordinates of these locations.
+When providing coordinates, Please specify a precise point with exact Latitude and Longitude values without unit, instead of referring to a general area or a broad range.  
+Please make sure that the 5 locations you provide are in different blocks of cityxxx.
+Please output as a python list in the following format:
+
+    Reasoning process = [""]
+
+    Top 5 most likely locations = [(LOCATION1, LAT_COORD1, LON_COORD1), (LOCATION2, LAT_COORD2, LON_COORD2), (LOCATION3, LAT_COORD3, LON_COORD3), (LOCATION4, LAT_COORD4, LON_COORD4), (LOCATION5, LAT_COORD5, LON_COORD5)]
+
+Take a deep breath. Let's think and infer this step by step. 

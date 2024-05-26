@@ -1,0 +1,5 @@
+{
+"latitude": 57.149717,
+"longitude": -2.094278,
+"location": "Aberdeen"
+}

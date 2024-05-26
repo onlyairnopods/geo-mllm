@@ -1,0 +1,5 @@
+{
+"latitudes": 34.6613,
+"longitudes": 133.9342,
+"location": "Okayama"
+}

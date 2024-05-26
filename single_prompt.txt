@@ -1,0 +1,9 @@
+This image was taken in cityxxx. Please reasoning step by step and infer the specific shooting location. Every elements in the picture which may help or not.
+When providing coordinates, please specify a precise point with exact Latitude and Longitude values without unit, instead of referring to a general area or a broad range.
+Make sure there is no contradiction between your reasoning process and your final result. Just give me the exact name of the city, latitude and longitude.
+Please output as a python list in the following format:
+    Reasoning process = [""]
+
+    The most likely locations = [CITY, LATITUDE, LONGITUDE]
+
+Take a deep breath. Let's think and infer this step by step. 

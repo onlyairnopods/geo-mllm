@@ -1,0 +1,3 @@
+ Reasoning process = [""]
+
+The most likely locations = [Okayama, 34.6613, 133.9342]

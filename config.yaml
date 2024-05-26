@@ -1,0 +1,40 @@
+# origin json
+json_path: ./IM2GPS3K.json
+images_path: ../IM2GPS3K
+count_txt_path: ./gemini_number.txt
+ptr_txt_path: ./gemini_blocked.txt
+
+# prompt method, choose direct or top5
+method:
+  # name: top5
+  # round: 1 # 1 -> 2
+
+  name: direct
+
+model: 
+  name: gemini
+  api_key: xxx
+
+# LMM's output json
+infer_json_path: ./IM2GPS3K_infer.json
+
+# re output
+re_json_path: ./IM2GPS3K_re.json
+
+check_prompt_path: ./prompt_single  # or prompt_top5
+
+check_model:
+  name: gpt-3.5-turbo-0613
+  api_key: xxx
+
+# GPT check
+check_json_path: ./IM2GPS3K_check.json
+
+prompt: ./single_prompt.txt
+
+# extract gt from preliminary json
+get_origin: False
+
+debug:
+  mode: False  # True or False
+  test_instances: 5

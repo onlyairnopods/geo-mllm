@@ -1,0 +1,3 @@
+ Reasoning process = [""]
+
+Top 5 most likely cities = [(Okayama, 34.6613, 133.9342), (Hiroshima, 34.3964, 132.4553), (Takamatsu, 34.3406, 134.0436), (Matsuyama, 33.8417, 132.7657), (Fukuyama, 34.4864, 133.3442)]
